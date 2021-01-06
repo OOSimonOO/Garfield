@@ -540,4 +540,4 @@ class DiscordBot(discord.Client):
             
             
 bot = DiscordBot()
-bot.run("Nzg1NzY4MzMwNDk3MjI4ODEw.X88pyA.s5Y5AofQDJ0D687Ti8NTwqax6Ck")
+bot.run(TOKEN)
